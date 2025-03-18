@@ -31,6 +31,10 @@
 | `'f'` | 화면 반전 모드 변경 (좌우/상하/상하좌우) |
 | `ESC` | 프로그램 종료 |
 
+## 결과물
+
+[녹화된 영상 보기](https://github.com/Nisik419/BestCV/output.avi)
+
 ## 📂 실행 방법
 1. **Python 및 OpenCV 설치**
    ```sh
