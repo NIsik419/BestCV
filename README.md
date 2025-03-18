@@ -33,7 +33,7 @@
 
 ## 결과물
 
-[녹화된 영상 보기](https://github.com/Nisik419/BestCV/output.avi)
+[녹화된 영상 보기](https://github.com/NIsik419/BestCV/blob/main/output.avi)
 
 ## 📂 실행 방법
 1. **Python 및 OpenCV 설치**
