@@ -35,7 +35,8 @@
 
 [녹화된 영상 보기](https://github.com/NIsik419/BestCV/blob/main/output.avi)
 
-![녹화 화면](화면 캡처 2025-03-18 213836.png)
+![녹화 중](https://github.com/NIsik419/BestCV/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202025-03-18%20213836.png)
+
 
 
 ## 📂 실행 방법
