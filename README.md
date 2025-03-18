@@ -35,6 +35,9 @@
 
 [녹화된 영상 보기](https://github.com/NIsik419/BestCV/blob/main/output.avi)
 
+![녹화 화면](화면 캡처 2025-03-18 213836.png)
+
+
 ## 📂 실행 방법
 1. **Python 및 OpenCV 설치**
    ```sh
